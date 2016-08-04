@@ -1,4 +1,11 @@
 .jumbotron {
-
-
+  text-align: center;
+  padding: inherit;
+  background-color: #bfff00;
+}
+/*.jumbotron h1 {
+  font-size: 300%;
+}* I tried to make the font a little smaller, but when we resized the windows it didn't adjust*/
+.margin {
+  margin-left: 20px;
 }
